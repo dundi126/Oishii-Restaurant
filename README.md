@@ -378,25 +378,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Laravel Framework
-- Stripe for payment processing
-- Tailwind CSS for styling
-- Font Awesome for icons
-- All contributors and users
-
-## 📞 Support
-
-For support, email support@oishii.com or open an issue in the repository.
-
----
-
 **Made with ❤️ for authentic Japanese cuisine**
 
